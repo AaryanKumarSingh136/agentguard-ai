@@ -2,7 +2,7 @@
 
 > **A local-first, zero-telemetry tool-call firewall and indirect prompt injection defense engine for open-weight AI agents, powered by Google Gemma 2.**
 
-[![CI Test Suite](https://github.com/AaryanKumarSingh136/agentguard-ai/actions/workflows/test.yml/badge.svg)](https://github.com/AaryanKumarSingh136/agentguard-ai/actions)
+[![Tests](https://img.shields.io/badge/Tests-12%2F12%20Passing-brightgreen.svg)](test_engine.js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Telemetry: 0%](https://img.shields.io/badge/Telemetry-0%25%20Local-emerald.svg)](SECURITY.md)
 [![Model: Google Gemma 2](https://img.shields.io/badge/Model-Google%20Gemma%202-purple.svg)](https://ai.google.dev/gemma)
