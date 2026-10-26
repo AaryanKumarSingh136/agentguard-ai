@@ -1,0 +1,33 @@
+{
+  "name": "agentguard-ai",
+  "version": "1.0.0",
+  "description": "Zero-trust tool-call firewall and indirect prompt injection defense engine for open-weight AI agents, powered by Google Gemma 2.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test_engine.js",
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaryanKumarSingh136/agentguard-ai.git"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "hacktoberfest-2026",
+    "open-source-ai",
+    "gemma2",
+    "google-gemma",
+    "agent-safety",
+    "firewall",
+    "prompt-injection",
+    "tool-call",
+    "mastra",
+    "langchain"
+  ],
+  "author": "Aaryan Kumar Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaryanKumarSingh136/agentguard-ai/issues"
+  },
+  "homepage": "https://github.com/AaryanKumarSingh136/agentguard-ai#readme"
+}

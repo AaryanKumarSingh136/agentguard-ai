@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use AgentGuard AI in your research or project, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Aaryan Kumar"
+title: "AgentGuard AI: Zero-Trust Tool-Call Firewall & Indirect Prompt Injection Defense for Open-Weight Agents"
+version: 1.0.0
+date-released: 2026-10-26
+url: "https://github.com/AaryanKumarSingh136/agentguard-ai"
+license: "MIT"
+keywords:
+  - "open-source-ai"
+  - "gemma-2"
+  - "agent-safety"
+  - "prompt-injection"
+  - "firewall"
+  - "hacktoberfest"
